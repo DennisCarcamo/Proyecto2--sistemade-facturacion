@@ -1,0 +1,23 @@
+***************** SISTEM SMART ONLINE *********************
+
+       FACTURA           FECHA: 30/3/2016
+
+ Cliente: Dennis Carcamos
+
+1 Televisor Plasma Samsung
+  Descuento del 5%.................. $   23.28
+  Precio de Envio................... $   39.00
+  Subtotal:......................... $  465.55
+
+2 Refrigeradora Poli
+  Descuento del 5%.................. $   11.95
+  Precio de Envio................... $   27.20
+  Subtotal:......................... $  238.93
+
+ __________________________________________________________  
+  SUBTOTAL DE LA COMPRA..............$ 704.48
+  15% Impuesto S/V...................$ 105.67
+  TOTAL DE LA COMPRA......................... $ 810.15
+
+
+***************** GRACIAS POR PREFERIRNOS *****************
